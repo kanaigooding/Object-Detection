@@ -1,0 +1,26 @@
+<annotation>
+	<folder>556-unfired-blank</folder>
+	<filename>556-unfired-blank.0abb4149-76d6-11ee-bc05-7085c27af97c.jpg</filename>
+	<path>C:\Code\GitHub\Object-Detection\Tensorflow\workspace\images\collectedimages\556-unfired-blank\556-unfired-blank.0abb4149-76d6-11ee-bc05-7085c27af97c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>507</width>
+		<height>676</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>556-unfired-blank</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>231</ymin>
+			<xmax>260</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>
