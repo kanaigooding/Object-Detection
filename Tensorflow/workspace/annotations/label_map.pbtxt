@@ -1,16 +1,8 @@
 item { 
-	name:'ThumbsUp'
+	name:'556mm-blank'
 	id:1
 }
 item { 
-	name:'ThumbsDown'
+	name:'556mm-live'
 	id:2
-}
-item { 
-	name:'ThankYou'
-	id:3
-}
-item { 
-	name:'LiveLong'
-	id:4
 }

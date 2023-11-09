@@ -3,6 +3,9 @@
 /Tensorflow/models
 /Tensorflow/protoc
 /Tensorflow/scripts
+Tensorflow/workspace/annotations
+Tensorflow/workspace/models
+Tensorflow/workspace/pre-trained-models
 /.ipynb_checkpoints
 /ipynb_checkpoints
 .ipynb_checkpoints
